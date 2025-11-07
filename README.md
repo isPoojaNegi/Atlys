@@ -1,3 +1,5 @@
+The Repository contains the assignment in SwiftUI
+
 / A landing screen that showcases trending visa destinations, collects a phone number,
 /// and offers social sign-in options.
 ///
